@@ -24,6 +24,7 @@
     <ProjectGuid>{fdecceb6-8e9f-4504-8a8d-5ed91f399efc}</ProjectGuid>
     <RootNamespace>October20class</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>shapes_lab</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
