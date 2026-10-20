@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main()
-//May comment out extra code to run part one or two.
+//May comment out one of the parts to run the other.
 {
 	//*Part one of the lab:
 	std::cout << "Enter any character (numeric, alphabetic, or symbols), but 'q' ends the program. " 
